@@ -1,5 +1,3 @@
-package com.iberdrola.clientes.presentation.views.customviews.circlearcview;
-
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
